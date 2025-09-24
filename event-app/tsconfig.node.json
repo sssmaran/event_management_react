@@ -2,7 +2,7 @@
   "compilerOptions": {
     "incremental": true,
     "tsBuildInfoFile": "./.tsbuildinfo.node",
-    "target": "ES2023",
+    "target": "esnext",
     "lib": ["ES2023"],
     "module": "ESNext",
     "skipLibCheck": true,
